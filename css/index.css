@@ -11,3 +11,10 @@ h1{
     border: 2px solid black;
     text-align: center;
 }
+
+p{
+    margin : 10px 2px;
+    border: 2px solid blue;
+    padding: 10px;
+    font-size: 18px;
+}
